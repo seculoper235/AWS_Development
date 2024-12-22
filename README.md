@@ -1,1 +1,26 @@
-# Lightsail_Instance
+# AWS Development
+---
+## 개요
+- AWS를 활용하여 다양한 인프라 모델을 구축해보기 위한 저장소입니다
+
+
+---
+## 📝 관련 작성글
+* [IAM 이란?](https://velog.io/@seculoper235/AWS-IAM-%EC%9D%B4%EB%9E%80)
+
+* [IAM 자격증명 이란?](https://velog.io/@seculoper235/AWS-IAM-%EC%9E%90%EA%B2%A9%EC%A6%9D%EB%AA%85-%EC%9D%B4%EB%9E%80)
+
+* [Codedeploy S3 upload 거부](https://velog.io/@seculoper235/%EB%B2%84%EA%B7%B8-Codedeploy-S3-upload-%EA%B1%B0%EB%B6%80)
+
+
+---
+## 😁 As-Is
+* Lightsail을 활용한 인프라 모델 설명(by draw.io)
+
+
+---
+## 💡 To-Be
+
+* Lightsail 모델 문서화
+
+* ECS를 활용한 인프라 모델 구현 및 문서화
