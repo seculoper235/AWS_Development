@@ -12,6 +12,8 @@
 
 * [Codedeploy S3 upload 거부](https://velog.io/@seculoper235/%EB%B2%84%EA%B7%B8-Codedeploy-S3-upload-%EA%B1%B0%EB%B6%80)
 
+* [AssumeRole과 passRole](https://velog.io/@seculoper235/IAM-passRole-assumeRole)
+
 
 ---
 ## 😁 As-Is
