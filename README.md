@@ -16,6 +16,8 @@
 
 * [CodeDeploy 배포 방식](https://velog.io/@seculoper235/CodeDeploy-%EB%B0%B0%ED%8F%AC-%EB%B0%A9%EC%8B%9D%EC%9E%91%EC%84%B1%EC%A4%91)
 
+* [Lightsail 이란?](https://velog.io/@seculoper235/AWS-Lightsail-%EC%9D%B4%EB%9E%80)
+
 
 ---
 ## 😁 As-Is
